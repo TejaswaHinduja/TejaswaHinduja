@@ -9,16 +9,15 @@
 - Always open to collaboration on useful, real-world ideas
 
 ### Featured projects
-- **TeachRelief** — _<one-line description>_  
+- **TeachRelief** — _<Helping teachers automate grading description>_  
   Repo: https://github.com/TejaswaHinduja/teachrelief
 
-- **WeChat** — _<one-line description>_  
+- **WeChat** — _<Real time chat app using socket.io description>_  
   Repo: https://github.com/TejaswaHinduja/wechat
 
 
 
 ### GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejaswaHinduja&show_icons=true&hide_title=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswaHinduja&layout=compact)
 
