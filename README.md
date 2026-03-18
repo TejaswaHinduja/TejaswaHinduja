@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Tejaswa Hinduja
 
-**3rd-year college student** who likes shipping projects fast — I build a lot, learn by doing, and iterate in public.
+**3rd-year college student** who likes shipping projects fast I build a lot, learn by doing, and iterate in public.
 
 ### What I’m up to
 - Building side-projects & prototypes
