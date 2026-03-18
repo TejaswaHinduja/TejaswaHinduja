@@ -9,10 +9,10 @@
 - Always open to collaboration on useful, real-world ideas
 
 ### Featured projects
-- **TeachRelief** — _<Helping teachers automate grading description>_  
+- **TeachRelief** — Helping teachers automate grading 
   Repo: https://github.com/TejaswaHinduja/teachrelief
 
-- **WeChat** — _<Real time chat app using socket.io description>_  
+- **WeChat** — Real time chat app using socket.io 
   Repo: https://github.com/TejaswaHinduja/wechat
 
 
