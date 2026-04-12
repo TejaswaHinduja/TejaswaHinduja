@@ -12,8 +12,8 @@
 - **TeachRelief** — Helping teachers automate grading 
   Repo: https://github.com/TejaswaHinduja/teachrelief
 
-- **WeChat** — Real time chat app using socket.io 
-  Repo: https://github.com/TejaswaHinduja/wechat
+- **watch2party** — Watch Videos together with you friends
+  Repo: https://github.com/TejaswaHinduja/watch2party
 
 
 
