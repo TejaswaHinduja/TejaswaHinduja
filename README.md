@@ -9,10 +9,10 @@
 - Always open to collaboration on useful, real-world ideas
 
 ### Featured projects
-- **TeachRelief** — Helping teachers automate grading 
+- **TeachRelief** — Helping teachers automate grading ,
   Repo: https://github.com/TejaswaHinduja/teachrelief
 
-- **watch2party** — Watch Videos together with you friends
+- **watch2party** — Watch Videos together with you friends ,
   Repo: https://github.com/TejaswaHinduja/watch2party
 
 
